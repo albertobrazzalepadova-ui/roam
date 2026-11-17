@@ -1,0 +1,193 @@
+[
+  {
+    "id": "landmark-eiffel",
+    "name": "Torre Eiffel",
+    "city": "Parigi",
+    "latitude": 48.85837,
+    "longitude": 2.294481,
+    "kind": "eiffel",
+    "aliases": [
+      "Tour Eiffel",
+      "Eiffel Tower"
+    ]
+  },
+  {
+    "id": "landmark-colosseum",
+    "name": "Colosseo",
+    "city": "Roma",
+    "latitude": 41.89021,
+    "longitude": 12.49223,
+    "kind": "arena",
+    "aliases": [
+      "Colosseo",
+      "Colosseum"
+    ]
+  },
+  {
+    "id": "landmark-pisa",
+    "name": "Torre di Pisa",
+    "city": "Pisa",
+    "latitude": 43.72295,
+    "longitude": 10.3966,
+    "kind": "leaning",
+    "aliases": [
+      "Torre di Pisa",
+      "Leaning Tower"
+    ]
+  },
+  {
+    "id": "landmark-rialto",
+    "name": "Ponte di Rialto",
+    "city": "Venezia",
+    "latitude": 45.43801,
+    "longitude": 12.33586,
+    "kind": "bridge",
+    "aliases": [
+      "Rialto"
+    ]
+  },
+  {
+    "id": "landmark-sanmarco",
+    "name": "Basilica di San Marco",
+    "city": "Venezia",
+    "latitude": 45.43456,
+    "longitude": 12.33971,
+    "kind": "basilica",
+    "aliases": [
+      "Basilica di San Marco",
+      "Saint Mark Basilica"
+    ]
+  },
+  {
+    "id": "landmark-campanile",
+    "name": "Campanile di San Marco",
+    "city": "Venezia",
+    "latitude": 45.43404,
+    "longitude": 12.33881,
+    "kind": "campanile",
+    "aliases": [
+      "Campanile di San Marco",
+      "St Mark Campanile"
+    ]
+  },
+  {
+    "id": "landmark-milan",
+    "name": "Duomo di Milano",
+    "city": "Milano",
+    "latitude": 45.46419,
+    "longitude": 9.19137,
+    "kind": "gothic",
+    "aliases": [
+      "Duomo di Milano",
+      "Milan Cathedral"
+    ]
+  },
+  {
+    "id": "landmark-florence",
+    "name": "Duomo di Firenze",
+    "city": "Firenze",
+    "latitude": 43.77315,
+    "longitude": 11.25596,
+    "kind": "dome",
+    "aliases": [
+      "Santa Maria del Fiore",
+      "Duomo di Firenze",
+      "Florence Cathedral"
+    ]
+  },
+  {
+    "id": "landmark-verona",
+    "name": "Arena di Verona",
+    "city": "Verona",
+    "latitude": 45.43902,
+    "longitude": 10.99438,
+    "kind": "arena",
+    "aliases": [
+      "Arena di Verona",
+      "Verona Arena"
+    ]
+  },
+  {
+    "id": "landmark-mole",
+    "name": "Mole Antonelliana",
+    "city": "Torino",
+    "latitude": 45.06905,
+    "longitude": 7.6932,
+    "kind": "mole",
+    "aliases": [
+      "Mole Antonelliana"
+    ]
+  },
+  {
+    "id": "landmark-bigben",
+    "name": "Big Ben",
+    "city": "Londra",
+    "latitude": 51.50073,
+    "longitude": -0.12463,
+    "kind": "clock",
+    "aliases": [
+      "Big Ben",
+      "Elizabeth Tower"
+    ]
+  },
+  {
+    "id": "landmark-louvre",
+    "name": "Piramide del Louvre",
+    "city": "Parigi",
+    "latitude": 48.86061,
+    "longitude": 2.33599,
+    "kind": "pyramid",
+    "aliases": [
+      "Pyramide du Louvre",
+      "Louvre Pyramid"
+    ]
+  },
+  {
+    "id": "landmark-brandenburg",
+    "name": "Porta di Brandeburgo",
+    "city": "Berlino",
+    "latitude": 52.51628,
+    "longitude": 13.3777,
+    "kind": "gate",
+    "aliases": [
+      "Brandenburg Gate",
+      "Brandenburger Tor"
+    ]
+  },
+  {
+    "id": "landmark-sagrada",
+    "name": "Sagrada Família",
+    "city": "Barcellona",
+    "latitude": 41.40363,
+    "longitude": 2.17436,
+    "kind": "sagrada",
+    "aliases": [
+      "Sagrada Familia",
+      "Sagrada Família"
+    ]
+  },
+  {
+    "id": "landmark-belem",
+    "name": "Torre di Belém",
+    "city": "Lisbona",
+    "latitude": 38.69158,
+    "longitude": -9.21598,
+    "kind": "fortress",
+    "aliases": [
+      "Torre de Belém",
+      "Belem Tower"
+    ]
+  },
+  {
+    "id": "landmark-arc",
+    "name": "Arco di Trionfo",
+    "city": "Parigi",
+    "latitude": 48.87379,
+    "longitude": 2.29503,
+    "kind": "arch",
+    "aliases": [
+      "Arc de Triomphe",
+      "Arco di Trionfo"
+    ]
+  }
+]

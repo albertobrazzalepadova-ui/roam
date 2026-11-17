@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.db
+*.db-*
+.DS_Store
+DerivedData/
+xcuserdata/
+.env
+backend/server.log
+ios/install.log

@@ -1,0 +1,29 @@
+{
+  "" : {
+    "diagnostics" : "/Users/roberto.libanora/Desktop/H-Farm-IV/ch4/ios/build/dd/Build/Intermediates.noindex/Roam.build/Debug-iphoneos/Roam.build/Objects-normal/arm64/Roam-primary.dia",
+    "emit-module-dependencies" : "/Users/roberto.libanora/Desktop/H-Farm-IV/ch4/ios/build/dd/Build/Intermediates.noindex/Roam.build/Debug-iphoneos/Roam.build/Objects-normal/arm64/Roam-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/roberto.libanora/Desktop/H-Farm-IV/ch4/ios/build/dd/Build/Intermediates.noindex/Roam.build/Debug-iphoneos/Roam.build/Objects-normal/arm64/Roam-primary-emit-module.dia",
+    "pch" : "/Users/roberto.libanora/Desktop/H-Farm-IV/ch4/ios/build/dd/Build/Intermediates.noindex/Roam.build/Debug-iphoneos/Roam.build/Objects-normal/arm64/Roam-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/roberto.libanora/Desktop/H-Farm-IV/ch4/ios/build/dd/Build/Intermediates.noindex/Roam.build/Debug-iphoneos/Roam.build/Objects-normal/arm64/Roam-primary.swiftdeps"
+  },
+  "/Users/roberto.libanora/Desktop/H-Farm-IV/ch4/ios/Roam/RoamApp.swift" : {
+    "const-values" : "/Users/roberto.libanora/Desktop/H-Farm-IV/ch4/ios/build/dd/Build/Intermediates.noindex/Roam.build/Debug-iphoneos/Roam.build/Objects-normal/arm64/RoamApp.swiftconstvalues",
+    "dependencies" : "/Users/roberto.libanora/Desktop/H-Farm-IV/ch4/ios/build/dd/Build/Intermediates.noindex/Roam.build/Debug-iphoneos/Roam.build/Objects-normal/arm64/RoamApp.d",
+    "diagnostics" : "/Users/roberto.libanora/Desktop/H-Farm-IV/ch4/ios/build/dd/Build/Intermediates.noindex/Roam.build/Debug-iphoneos/Roam.build/Objects-normal/arm64/RoamApp.dia",
+    "index-unit-output-path" : "/Roam.build/Debug-iphoneos/Roam.build/Objects-normal/arm64/RoamApp.o",
+    "llvm-bc" : "/Users/roberto.libanora/Desktop/H-Farm-IV/ch4/ios/build/dd/Build/Intermediates.noindex/Roam.build/Debug-iphoneos/Roam.build/Objects-normal/arm64/RoamApp.bc",
+    "object" : "/Users/roberto.libanora/Desktop/H-Farm-IV/ch4/ios/build/dd/Build/Intermediates.noindex/Roam.build/Debug-iphoneos/Roam.build/Objects-normal/arm64/RoamApp.o",
+    "swift-dependencies" : "/Users/roberto.libanora/Desktop/H-Farm-IV/ch4/ios/build/dd/Build/Intermediates.noindex/Roam.build/Debug-iphoneos/Roam.build/Objects-normal/arm64/RoamApp.swiftdeps",
+    "swiftmodule" : "/Users/roberto.libanora/Desktop/H-Farm-IV/ch4/ios/build/dd/Build/Intermediates.noindex/Roam.build/Debug-iphoneos/Roam.build/Objects-normal/arm64/RoamApp~partial.swiftmodule"
+  },
+  "/Users/roberto.libanora/Desktop/H-Farm-IV/ch4/ios/build/dd/Build/Intermediates.noindex/Roam.build/Debug-iphoneos/Roam.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/roberto.libanora/Desktop/H-Farm-IV/ch4/ios/build/dd/Build/Intermediates.noindex/Roam.build/Debug-iphoneos/Roam.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/roberto.libanora/Desktop/H-Farm-IV/ch4/ios/build/dd/Build/Intermediates.noindex/Roam.build/Debug-iphoneos/Roam.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/roberto.libanora/Desktop/H-Farm-IV/ch4/ios/build/dd/Build/Intermediates.noindex/Roam.build/Debug-iphoneos/Roam.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Roam.build/Debug-iphoneos/Roam.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/roberto.libanora/Desktop/H-Farm-IV/ch4/ios/build/dd/Build/Intermediates.noindex/Roam.build/Debug-iphoneos/Roam.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/roberto.libanora/Desktop/H-Farm-IV/ch4/ios/build/dd/Build/Intermediates.noindex/Roam.build/Debug-iphoneos/Roam.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/roberto.libanora/Desktop/H-Farm-IV/ch4/ios/build/dd/Build/Intermediates.noindex/Roam.build/Debug-iphoneos/Roam.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/roberto.libanora/Desktop/H-Farm-IV/ch4/ios/build/dd/Build/Intermediates.noindex/Roam.build/Debug-iphoneos/Roam.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}
